@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " L ",
+    " R ",
+    " G "
+  ],
+  "key": {
+    "L": {
+      "item": "zjqtest:lithium_ingot"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "G": {
+      "item": "minecraft:glass_bottle"
+    }
+  },
+  "result": {
+    "id": "zjqtest:electrolyte_bottle",
+    "count": 1
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "itemgroup.zjqtest.zjqtest_group": "激光科技",
+  "item.zjqtest.laser_sword": "激光剑",
+  "item.zjqtest.energy_battery": "能量电池",
+  "item.zjqtest.cobalt_sword": "钴剑",
+  "item.zjqtest.cobalt_pickaxe": "钴镐",
+  "item.zjqtest.cobalt_axe": "钴斧",
+  "item.zjqtest.cobalt_shovel": "钴锹",
+  "item.zjqtest.cobalt_hoe": "钴锄",
+  "item.zjqtest.lithium_ingot": "锂锭",
+  "item.zjqtest.raw_lithium": "粗锂",
+  "item.zjqtest.cobalt_ingot": "钴锭",
+  "item.zjqtest.raw_cobalt": "粗钴",
+  "item.zjqtest.graphite": "石墨",
+  "item.zjqtest.battery_shell": "电池壳",
+  "item.zjqtest.electrolyte_bottle": "电解液瓶",
+  "subtitles.zjqtest.laser_sword_on": "激光剑:开启",
+  "subtitles.zjqtest.laser_sword_off": "激光剑:关闭",
+  "block.zjqtest.charging_station": "充能底座",
+  "block.zjqtest.lithium_ore": "锂矿石",
+  "block.zjqtest.deepslate_lithium_ore": "深层锂矿石",
+  "block.zjqtest.cobalt_ore": "钴矿石",
+  "block.zjqtest.deepslate_cobalt_ore": "深层钴矿石"
+}
+
+

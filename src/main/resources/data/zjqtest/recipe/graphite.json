@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": {
+    "item": "minecraft:coal"
+  },
+  "result": {
+    "id": "zjqtest:graphite", "count": 1
+  },
+  "experience": 0.3,
+  "cookingtime": 200
+}

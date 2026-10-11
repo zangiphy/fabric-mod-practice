@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "zjqtest:block/charging_station"
+    },
+    "facing=east": {
+      "model": "zjqtest:block/charging_station",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "zjqtest:block/charging_station",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "zjqtest:block/charging_station",
+      "y": 270
+    }
+  }
+}
+

@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "zjqtest:charging_station",
+    "zjqtest:lithium_ore",
+    "zjqtest:deepslate_lithium_ore",
+    "zjqtest:cobalt_ore",
+    "zjqtest:deepslate_cobalt_ore"
+  ]
+}

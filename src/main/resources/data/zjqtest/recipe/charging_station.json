@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ICI",
+    "DRD",
+    "IBI"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:iron_block"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+	"I": {
+	  "item": "minecraft:iron_ingot"
+	},
+	"R": {
+	  "item": "minecraft:redstone"
+	},
+	"C": {
+	  "item": "minecraft:copper_ingot"
+	}
+  },
+  "result": {
+    "id": "zjqtest:charging_station",
+    "count": 1
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "laser_sword_on": {
+    "subtitle": "subtitles.zjqtest.laser_sword_on",
+    "sounds": [
+      "zjqtest:item/laser_sword_on"
+    ]
+  },
+  "laser_sword_off": {
+    "subtitle": "subtitles.zjqtest.laser_sword_off",
+    "sounds": [
+      "zjqtest:item/laser_sword_off"
+    ]
+  }
+}

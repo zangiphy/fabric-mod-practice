@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    "RDR",
+    " I "
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+	"I": {
+	  "item": "minecraft:iron_ingot"
+	},
+	"R": {
+	  "item": "minecraft:redstone"
+	}
+  },
+  "result": {
+    "id": "zjqtest:laser_sword",
+    "count": 1
+  }
+}

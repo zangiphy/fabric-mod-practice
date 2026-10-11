@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "LCO",
+    "GEP",
+    " B "
+  ],
+  "key": {
+    "L": {
+      "item": "zjqtest:lithium_ingot"
+    },
+    "C": {
+      "item": "zjqtest:cobalt_ingot"
+    },
+    "O": {
+      "item": "minecraft:copper_ingot"
+    },
+    "G": {
+      "item": "zjqtest:graphite"
+    },
+    "E": {
+      "item": "zjqtest:electrolyte_bottle"
+    },
+    "P": {
+      "item": "minecraft:paper"
+    },
+    "B": {
+      "item": "zjqtest:battery_shell"
+    }
+  },
+  "result": {
+    "id": "zjqtest:energy_battery",
+    "count": 1
+  }
+}

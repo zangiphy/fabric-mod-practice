@@ -1,0 +1,26 @@
+{
+  "itemgroup.zjqtest.zjqtest_group": "Laser Tech",
+  "item.zjqtest.laser_sword": "Laser Sword",
+  "item.zjqtest.energy_battery": "Energy Battery",
+  "item.zjqtest.cobalt_sword": "Cobalt Sword",
+  "item.zjqtest.cobalt_pickaxe": "Cobalt Pickaxe",
+  "item.zjqtest.cobalt_axe": "Cobalt Axe",
+  "item.zjqtest.cobalt_shovel": "Cobalt Shovel",
+  "item.zjqtest.cobalt_hoe": "Cobalt Hoe",
+  "item.zjqtest.lithium_ingot": "Lithium Ingot",
+  "item.zjqtest.raw_lithium": "Raw Lithium",
+  "item.zjqtest.cobalt_ingot": "Cobalt Ingot",
+  "item.zjqtest.raw_cobalt": "Raw Cobalt",
+  "item.zjqtest.graphite": "Graphite",
+  "item.zjqtest.battery_shell": "Battery Shell",
+  "item.zjqtest.electrolyte_bottle": "Electrolyte Bottle",
+  "subtitles.zjqtest.laser_sword_on": "Laser Sword:Extends",
+  "subtitles.zjqtest.laser_sword_off": "Laser Sword:Retracts",
+  "block.zjqtest.charging_station": "Charging Station",
+  "block.zjqtest.lithium_ore": "Lithium Ore",
+  "block.zjqtest.deepslate_lithium_ore": "Deepslate Lithium Ore",
+  "block.zjqtest.cobalt_ore": "Cobalt Ore",
+  "block.zjqtest.deepslate_cobalt_ore": "Deepslate Cobalt Ore"
+}
+
+

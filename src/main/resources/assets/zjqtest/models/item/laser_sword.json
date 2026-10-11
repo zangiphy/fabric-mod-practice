@@ -1,0 +1,11 @@
+{
+  "parent": "zjqtest:item/laser_sword_off",
+  "overrides": [
+    {
+      "predicate": {
+        "zjqtest:active": 1.0
+      },
+      "model": "zjqtest:item/laser_sword_on"
+    }
+  ]
+}
